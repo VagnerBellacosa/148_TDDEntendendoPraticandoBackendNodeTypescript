@@ -1,6 +1,3 @@
-# 148_TDDEntendendoPraticandoBackendNodeTypescript
-O TypeScript (TS) cresceu muito nos últimos anos e cada vez mais empresas têm adotado ele como um padrão em projetos historicamente dominados pelo JavaScript (JS). O TS já é uma tendência em tecnologias de frontend (React e Angular) e backend (Node.js). Explore essa incrível ferramenta, focando na qualidade de suas soluções, usando o Test Driven Development (TDD) neste exclusivo e inédito conteúdo!
-
 [**](https://web.dio.me/track/formacao-quality-assurance-experience)
 
 ##### TDD: Entendendo e Praticando em um Backend com Node e Typescript
@@ -13,7 +10,7 @@ O TypeScript (TS) cresceu muito nos últimos anos e cada vez mais empresas têm 
 
 
 
-00:01
+00:46
 
  
 
@@ -57,7 +54,3 @@ O TypeScript (TS) cresceu muito nos últimos anos e cada vez mais empresas têm 
 ###### Nathally Souza
 
 Application Developer, ThoughtWorks[**](https://www.linkedin.com/in/nathally-souza-7331a71b9/) [**](https://github.com/nathyts/)
-
-
-
-https://web.dio.me/lab/tdd-entendendo-e-praticando-em-um-backend-com-node-e-typescript/learning/c595a1f2-993b-4517-a36a-827557b938d6
